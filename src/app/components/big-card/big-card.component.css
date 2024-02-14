@@ -26,8 +26,9 @@
   margin-top: 10px;
 }
 
-.big-card__description > p {
+.big-card__description > p > a {
   color: grey;
+  text-decoration: none;
 }
 
 .big-card__photo > img {

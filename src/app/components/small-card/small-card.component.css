@@ -32,13 +32,13 @@
   height: 10%;
 }
 
-.small-card__title > h3 {
-  color: grey;
+.small-card__title > h1 > a {
   display: flex;
   box-sizing: border-box;
   padding-top: 15px;
   width: 100%;
   height: 100%;
+  text-decoration: none;
 }
 
 .small-card__photo > img {
