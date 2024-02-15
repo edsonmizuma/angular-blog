@@ -1,7 +1,7 @@
 .container__menu-title {
   padding-top: 15px;
   color: white;
-  width: 1260px;
+  width: 100%;
 }
 
 .container__menu-title > h1 {
